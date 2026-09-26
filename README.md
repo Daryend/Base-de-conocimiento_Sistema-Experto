@@ -2,12 +2,11 @@
 
 Sistema experto basado en **reglas SI-ENTONCES** (forward chaining) que recomienda qué deporte de combate deberías practicar —**Boxeo, Kickboxing/Muay Thai, Jiu Jitsu Brasileño, Lucha Olímpica o MMA**— a partir de 10 preguntas sobre tus características físicas, preferencias y objetivos.
 
-Incluye **dos versiones equivalentes**, con la misma base de conocimiento:
+Incluye:
 
 | Versión | Tecnología | Archivo |
 |---|---|---|
 | 🖥️ Escritorio | Python + Tkinter | `sistema_experto_combate.py` |
-| 🌐 Web | HTML + CSS + JavaScript (sin dependencias) | `sistema_experto.html` |
 
 ---
 
