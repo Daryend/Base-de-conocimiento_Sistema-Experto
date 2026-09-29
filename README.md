@@ -112,7 +112,6 @@ Cada regla es evaluada contra la base de hechos; si su condición se cumple, apo
 ## 🛠️ Tecnologías utilizadas
 
 - **Python 3** + **Tkinter** (interfaz de escritorio nativa, sin dependencias externas)
-- **HTML5 / CSS3 / JavaScript** puro (interfaz web, sin frameworks ni librerías)
 
 ---
 
